@@ -1,0 +1,11 @@
+{
+  "name": "poo",
+  "version": "1.0.0",
+  "description": "Practice POO",
+  "main": "index.js",
+  "scripts": {
+    "test": "node POO/class.js"
+  },
+  "author": "Pablo Congote",
+  "license": "ISC"
+}
